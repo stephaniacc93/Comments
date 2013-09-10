@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1378840299 source:c:\users\paul andre\documents\codeblocks projects\comments\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
